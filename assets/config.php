@@ -19,7 +19,7 @@ include("../classes/permissions.inc");
 
 ?>
 
-<title>COMERCIAL CINDY</title>
+<title>ERP</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"> 
 
@@ -100,6 +100,6 @@ include("../classes/permissions.inc");
 
 </script>
 
-<!-- jQuert Print -->
+<!-- jQuery Print -->
 <script type="text/javascript" src="../assets/libs/jquery-print/dist/jQuery.print.min.js"></script>
 
